@@ -1,3 +1,9 @@
+---
+layout: default
+title:  About
+last-modified: 11/18/25
+---
+
 # About
 My name is Jacob Thomas, and I am a Computer Science Student attending Boise State University.
 

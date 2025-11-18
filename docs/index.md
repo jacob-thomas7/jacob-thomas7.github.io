@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Homepage
+last-modified: 11/18/25
+---
+
 # Welcome!
 
 I'm Jacob Thomas, a Computer Science student at Boise State University.

@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Balance in All Things
+last-modified: 11/18/25
+---
+
 # Balance in All Things
 ---
 

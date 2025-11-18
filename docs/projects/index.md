@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Projects
+last-modified: 11/18/25
+---
+
 # Projects
 
 ## Rynput

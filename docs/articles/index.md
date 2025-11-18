@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Articles
+last-modified: 11/18/25
+---
+
 # Articles
 
 Often, we tend to think that writing is about communicating our ideas with others. There is definitely
