@@ -1,22 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
-  {%- include head.html -%}
-
-  <body>
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <p>Just making sure default.html is being used.</p>
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    <!--{%- include footer.html -%}
-
-    {%- include sub-footer.html -%}-->
-
-  </body>
-
+    <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+    {%- include head.html -%}
+    <body>
+        {%- include header.html -%}
+        <div id="center">
+            <div id="content">
+                {{ content }}
+            </div>
+        </div>
+        {%- include footer.html -%}
+    </body>
 </html>
