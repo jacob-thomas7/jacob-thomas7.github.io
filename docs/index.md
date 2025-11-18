@@ -4,10 +4,8 @@ I'm Jacob Thomas, a Computer Science student at Boise State University.
 
 This is my portfolio, where I showcase my projects, explain my experiences, and share my thoughts on various subjects.
 
-However, I haven't used Jekyll before and I'm not sure my commits are even doing anything!
-
 ## Projects
-View my [programming projects](/projects)
+View my [programming projects](/projects).
 
 ## About
 Learn more [about](/about) me.
